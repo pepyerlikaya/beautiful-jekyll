@@ -17,7 +17,7 @@ subtitle: Web sitenizin performansını iyileştirmesine yardımcı olacak Googl
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Alan-Adi.png">
 
-<img alt="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" title="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" src="/img/Google-Search-Console-DNS-Dogrula.png">
+<img alt="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" title="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" src="/img/Google-Search-Console-DNS-Kaydi-Dogrula.png">
 
 <h3> URL Ön Eki </h3>
 
