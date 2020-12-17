@@ -21,6 +21,8 @@ subtitle: Web sitenizin performansını iyileştirmesine yardımcı olacak Googl
 
 <h3> URL Ön Eki </h3>
 
+<img alt="Google Search Console URL Ön Eki" title="Google Search Console URL Ön Eki" src="/img/Google-Search-Console-URL-On-Eki.png">
+
 1. HTML Dosyası
 2. HTML Etiketi
 3. Google Analytics
