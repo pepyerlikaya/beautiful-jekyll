@@ -8,12 +8,31 @@ published: true
 subtitle: Web sitenizin performansını iyileştirmesine yardımcı olacak Google Search Console rehberi.
 ---
 
+Web sitenizin performansını iyileştirmesine yardımcı olacak Google Search Console rehberi.
+
+İlk önce web sitenizi Google Search Console aracına kayıt etmek ile başlayalım. Daha sonra ise sitenizdeki önemli olan eksiklikleri gidereceğiz.
+
+Bunlar ise XML site haritası oluşturmayı, ardından site doğrulama adımlarını ve gereksiz sayfaları arama sonuçlarından kaldırma işlemini ve en önemlisi sitenizin performansını iyileştirecek taktikler vereceğim.
+
 <h2> Google Search Console </h2>
+
+Web sayfanızı birbirinden farklı iki yöntemden herhangi birisini kullanarak yapabilirsiniz.
 
 1. Alan Adı
 2. URL Ön Eki
 
 <h3> Alan Adı </h3>
+
+Bu yöntem web sitenizi barındırdığınız DNS kayıtlarına TXT kaydı ekleyeceğiniz Google site verification kodunu ekleyerek gerçekleştire bilirsiniz.
+
+Alan adı özelliğinin tek farkı ise tüm URL varyasyonların hepsini doğruluyor olması.
+
+* http://example.com/
+* http://www.example.com/
+* https://example.com/
+* https://www.example.com/
+
+Kutucuğa sitenizin http, https ve www ön ekleri olmadan yazarak ilerleyin.
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Alan-Adi.png">
 
