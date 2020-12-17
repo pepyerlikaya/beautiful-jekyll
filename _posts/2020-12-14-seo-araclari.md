@@ -15,6 +15,16 @@ Web sitenizin imkansızlıkları ortadan kaldırarak çalışma hayatını kolay
 
 <h3> Also Asked </h3>
 
+Also Asked, kullanıcıların sorgulamış olduğu soruları makalenizde cevaplamaya değer olabilecek alt başlıklar oluşturarak cevaplar oluşturun.
+
+Örneğin;
+
+<a href="https://hakanyerlikaya.com/seo/" target="_blank" rel="noreferrer noopener">SEO</a> konusunda bir makale yazıyorsanız eğer kullanıcıların makaleyle alakalı diğer arama sorgularını alt başlıklar kullanarak yanıtlamak isteyebilirsiniz!
+
+* SEO nasıl yapılır?
+* SEO hizmeti
+* SEO uzmanı
+
 <img alt="Also Asked" title="Also Asked" src="/img/Also-Asked.png">
 
 <h3> Answer The Public </h3>
