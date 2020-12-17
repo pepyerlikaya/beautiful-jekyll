@@ -66,6 +66,10 @@ Benzersiz olarak verilen HTML etiketi veya meta etiketi kopyalayın.
 
 <h4> Google Analytics </h4>
 
+Google Analytics, kullanıcıların web sayfanızı nasıl bulduklarını ne kadar süre geçirdikleri gibi sitenizde ne kadar zaman geçirdikleri gibi detaylı bilgilere sahip olma imkanınız bulunuyor.
+
+Google Search Console aracına Google Analytics 
+
 <img alt="Google Search Console Google Analytics" title="Google Search Console Google Analytics" src="/img/Google-Search-Console-Google-Analytics.png">
 
 <h4> Google Etiket Yöneticisi </h4>
