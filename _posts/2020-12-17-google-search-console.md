@@ -68,7 +68,7 @@ Ekle düğmesine tıklayarak aşağıdaki adımları takip ediniz.
 
 <img alt="GoDaddy DNS Google TXT Kayıtlar" title="GoDaddy DNS Google TXT Kayıtlar" src="/img/GoDaddy-DNS-Google-TXT.png">
 
-Değişiklikleri yaptıktan sonra kaydet düğmesine tıklayarak yapmış olduğunuz değişiklikleri gözden geçirin.
+Değişiklikten sonra kaydet düğmesine tıklayarak yapmış olduğunuz değişiklikleri gözden geçirin.
 
 <img alt="GoDaddy TXT Kayıtlar" title="GoDaddy TXT Kayıtlar" src="/img/GoDaddy-TXT-Kayitlar.png">
 
