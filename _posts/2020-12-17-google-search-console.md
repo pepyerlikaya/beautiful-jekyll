@@ -47,9 +47,9 @@ TXT kaydını kopyalayın ve web sitenizi hangi hosting sağlayıcısında barı
 * Güzel Hosting
 * Turhost
 
-Web sayfamı GoDaddy hosting'de barındırdığımdan dolayı örneğim bu şekilde ilerleyecektir.
+Web sayfamı GoDaddy hosting'de barındırdığımdan dolayı örneğim bu şekilde olacaktır.
 
-1. GoDaddy hesaba giriş yapın.
+1. GoDaddy hesabınıza giriş yapın.
 2. Ürünlerim
 3. Alan Adları
 4. DNS'i Yönelt
