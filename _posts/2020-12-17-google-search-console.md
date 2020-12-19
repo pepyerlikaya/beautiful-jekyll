@@ -82,7 +82,9 @@ Birkaç saat sonra tekrardan doğrula yapacağınız zaman
 
 Web sayfanızı bir başka özellik olan URL ön eki özelliğini kullanarakta yapabilirsiniz.
 
-Burada dikkat etmeniz gereken nokta ise web sitenizin tüm URL varyasyonlarını tek tek ekleyerek doğrulama yapmalısınız. Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
+Burada dikkat etmeniz gereken nokta ise web sitenizin tüm URL varyasyonlarını tek tek ekleyerek doğrulama yapmalısınız. 
+
+Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
 
 * http://example.com/
 * http://www.example.com/
