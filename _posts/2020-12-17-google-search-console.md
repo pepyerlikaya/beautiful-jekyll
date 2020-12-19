@@ -80,6 +80,15 @@ Birkaç saat sonra tekrardan doğrula yapacağınız zaman
 
 <h3> URL Ön Eki </h3>
 
+Web sayfanızı bir başka özellik olan URL ön eki özelliğini kullanarakta yapabilirsiniz.
+
+Burada dikkat etmeniz gereken nokta ise web sitenizin tüm URL varyasyonlarını tek tek ekleyerek doğrulama yapmalısınız. Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
+
+* http://example.com/
+* http://www.example.com/
+* https://example.com/
+* https://www.example.com/
+
 <img alt="Google Search Console URL Ön Eki" title="Google Search Console URL Ön Eki" src="/img/Google-Search-Console-URL-On-Eki.png">
 
 1. HTML Dosyası
