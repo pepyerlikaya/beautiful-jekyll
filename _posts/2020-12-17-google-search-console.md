@@ -36,7 +36,47 @@ Kutucuğa sitenizin http, https ve www ön ekleri olmadan yazarak ilerleyin.
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Alan-Adi.png">
 
+Alan sahipliğinizi DNS kaydıyla doğrulayın uyarısı ile karşılaşacaksınız.
+
 <img alt="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" title="Google Search Console Alan Sahipliğinizi DNS Kaydıyla Doğrulayın" src="/img/Google-Search-Console-DNS-Kaydi-Dogrula.png">
+
+TXT kaydını kopyalayın ve web sitenizi hangi hosting sağlayıcısında barındırıyor iseniz site adresini ziyaret edin.
+
+* GoDaddy
+* Veridyen
+* Güzel Hosting
+* Turhost
+
+Web sayfamı GoDaddy hosting'de barındırdığımdan dolayı örneğim bu şekilde ilerleyecektir.
+
+1. GoDaddy hesaba giriş yapın.
+2. Ürünlerim
+3. Alan Adları
+4. DNS'i Yönelt
+5. Kayıtlar
+
+<img alt="GoDaddy Kayıtlar" title="GoDaddy Kayıtlar" src="/img/GoDaddy-Kayitlar.png">
+
+Ekle düğmesine tıklayarak aşağıdaki adımları takip ediniz.
+
+* Tür: TXT
+* Ana Bilgisayar: @
+* TXT Değeri: Google TXT kaydını yapıştırın
+* TTL: 1 Saat
+
+<img alt="GoDaddy DNS TXT Kayıtlar" title="GoDaddy DNS TXT Kayıtlar" src="/img/GoDaddy-DNS-TXT.png">
+
+<img alt="GoDaddy DNS Google TXT Kayıtlar" title="GoDaddy DNS Google TXT Kayıtlar" src="/img/GoDaddy-DNS-Google-TXT.png">
+
+Değişiklikleri yaptıktan sonra kaydet düğmesine tıklayarak yapmış olduğunuz değişiklikleri gözden geçirin.
+
+<img alt="GoDaddy TXT Kayıtlar" title="GoDaddy TXT Kayıtlar" src="/img/GoDaddy-TXT-Kayitlar.png">
+
+Google Search Console aracına geri dönerek doğrula düğmesine tıklayın. DNS kayıt değişiklikleri biraz zaman alacağından dolayı Sahiplik Doğrulamadı uyarısı alabilirsiniz.
+
+<img alt="Google Search Console Sahiplik Doğrulanamadı" title="Google Search Console Sahiplik Doğrulanamadı" src="/img/Google-Search-Console-Sahiplik-Dogrulanamadi.png">
+
+Birkaç saat sonra tekrardan doğrula yapacağınız zaman 
 
 <h3> URL Ön Eki </h3>
 
