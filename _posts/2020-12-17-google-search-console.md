@@ -91,7 +91,14 @@ Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
 * https://example.com/
 * https://www.example.com/
 
+
+URL ön eki kutucuğuna web sayfanızın URL adresini yapıştırın ve devam düğmesine tıklayın.
+
 <img alt="Google Search Console URL Ön Eki" title="Google Search Console URL Ön Eki" src="/img/Google-Search-Console-URL-On-Eki.png">
+
+Sahipliği doğrulayın ekranında birbirinden farklı 5 ayrı özellik ile sitenizi doğrulama yapabilirsiniz.
+
+<img alt="Google Search Console Sahipliği Doğrulayın" title="Google Search Console Sahipliği Doğrulayın" src="/img/Google-Search-Console-Sahipligi-Dogrulayin.png">
 
 1. HTML Dosyası
 2. HTML Etiketi
@@ -99,7 +106,6 @@ Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
 4. Google Etiket Yöneticisi
 5. Alan Adı Sağlayıcı
 
-<img alt="Google Search Console Sahipliği Doğrulayın" title="Google Search Console Sahipliği Doğrulayın" src="/img/Google-Search-Console-Sahipligi-Dogrulayin.png">
 
 <h4> HTML Dosyası </h4>
 
