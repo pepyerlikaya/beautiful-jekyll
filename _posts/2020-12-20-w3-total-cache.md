@@ -24,7 +24,7 @@ Aşağıda paylaştığım mobil ve masaüstü cihazlar için hız testi ölçme
 <h2> W3 Total Cache </h2>
 
 
-W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek eklentinin kurulumunu tamamlayınız.
+W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek kurulumunu tamamlayınız.
 
 * Eklentiler
 * Yeni Ekle
