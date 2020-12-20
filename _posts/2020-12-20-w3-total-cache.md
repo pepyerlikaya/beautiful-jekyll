@@ -11,6 +11,8 @@ Wordpress için W3 Total Cache eklentisi ile beraber ücretsiz olarak dağıtıl
 
 Site hızı Google için bir sıralama sinyalidir.
 
+Aşağıda paylaştığım mobil ve masaüstü cihazlar için hız testi ölçmeye yarayan araçları kulanarak çıkan sonuçları bir köşeye not alınız.
+
 * <a href="https://web.dev/measure/" target="_blank" rel="noreferrer noopener">Measure Web.dev</a>
 * <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noreferrer noopener">Google PageSpeed Insights</a>
 * <a href="https://www.thinkwithgoogle.com/intl/tr-tr/feature/testmysite/" target="_blank" rel="noreferrer noopener">Test My Site</a>
