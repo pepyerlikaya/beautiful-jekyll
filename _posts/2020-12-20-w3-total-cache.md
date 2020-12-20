@@ -7,7 +7,7 @@ permalink: /w3-total-cache/
 subtitle: Wordpress ile oluşturduğunuz web sayfanızı W3 Total Cache ve Cloudflare ile sitenizi optimize edeceğiz.
 ---
 
-Wordpress için W3 Total Cache eklentisi ile beraber ücretsiz olarak dağıtılan Cloudflare CND ağını etkinleştirerek web sayfaların yavaç açılmasının önüne geçmiş olacağız.
+Wordpress için W3 Total Cache eklentisi ile beraber ücretsiz olarak dağıtılan Cloudflare CND ağını etkinleştirerek web sayfaların yavaş açılma probleminin birazcıkta olsa önüne geçeceğiz.
 
 Site hızı Google için bir sıralama sinyalidir.
 
