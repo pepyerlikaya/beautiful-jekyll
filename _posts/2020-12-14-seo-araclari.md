@@ -4,7 +4,7 @@ title: Ücretsiz En iyi SEO Araçları
 date: '2020-12-14'
 author: Hakan Yerlikaya
 permalink: /seo-araclari/
-subtitle: Ücretsiz en iyi SEO araçları listesi mi arıyorsunuz? Bu rehber web sayfanızın performansını iyileştirecek araçlarla dolu.
+subtitle: Ücretsiz en iyi SEO araçları listesi mi arıyorsunuz? Bu rehber web sayfanızın performansını iyileştirecek araçlar ile dolu.
 ---
 
 Bu rehberde hedef kitlenizi daha kolay keşfetmenize yardımcı olacak ücretsiz en iyi SEO araçları listesiyle karşılaşacaksınız.
