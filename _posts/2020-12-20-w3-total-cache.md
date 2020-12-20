@@ -41,16 +41,18 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek 
 * Page Cache: Enable
   * Page Cache Method: Disk: Enhanced
 * Minify: Disable
-* Minify Mode: Auto
+  * Minify Mode: Auto
+  * Minify Cache Method: Disk
 * Opcode Cache: Not Available
 * Database Cache: Disable
-* Database Cache Method: Disk
+  * Database Cache Method: Disk
 * Object Cache: Enable
-* Object Cache Method: Disk
+  * Object Cache Method: Disk
+ * Browser Cache: Enable 
 * Lazy Load Images: Enable
-* Disable Emoji: Enable
-* Disable wp-embed script: Enable
-* Disable jquery-migrate on the front-end: Enable
+  * Disable Emoji: Enable
+  * Disable wp-embed script: Enable
+  * Disable jquery-migrate on the front-end: Enable
 
 <img alt="W3 Total Cache General Settings" title="W3 Total Cache General Settings" src="/img/W3-Total-Cache-General-Settings.png">
 
