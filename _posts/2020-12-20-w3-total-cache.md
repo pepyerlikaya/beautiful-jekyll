@@ -39,7 +39,7 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ediniz.
 * Disable wp-embed script: Enable
 * Disable jquery-migrate on the front-end: Enable
 
-<img alt="W3 Total Cache General Settings" title="W3 Total Cache General Settings" src="/img/W3-Total-Cache-General Settings.png">
+<img alt="W3 Total Cache General Settings" title="W3 Total Cache General Settings" src="/img/W3-Total-Cache-General-Settings.png">
 
 <h3> Page Cache </h3>
 
@@ -58,3 +58,32 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ediniz.
 * Preload the post cache upon publish events: Enable
 
 <img alt="W3 Total Cache Page Cache" title="W3 Total Cache Page Cache" src="/img/W3-Total-Cache-Page-Cache.png">
+
+<h3> Browser Cache </h3>
+
+* Set Last-Modified header: Enable
+* Set expires header: Enable
+* Set cache control header: Enable
+* Set entity tag (ETag): Enable
+* Set W3 Total Cache header: Enable
+* Enable HTTP (gzip) compression: Enable
+* Enable HTTP (brotli) compression: Disable
+* Prevent caching of objects after settings change: Disable
+* Remove query strings from static resources: Enable
+* Don't set cookies for static files: Enable
+* Do not process 404 errors for static objects with WordPress: Disable
+* Rewrite URL structure of objects: Disable
+
+* Set Last-Modified header: Enable
+* Set expires header: Enable
+* Expires header lifetime: 31536000 seconds
+* Set cache control header: Enable
+* Set entity tag (eTag): Enable
+* Set W3 Total Cache header: Enable
+* Enable HTTP (gzip) compression: Enable
+* Enable HTTP (brotli) compression: Disable
+* Prevent caching of objects after settings change: Disable
+* Remove query strings from static resources: Enable
+* Disable cookies for static files: Enable
+
+<img alt="W3 Total Cache Browser Cache" title="W3 Total Cache Browser Cache" src="/img/W3-Total-Cache-Browser-Cache.png">
