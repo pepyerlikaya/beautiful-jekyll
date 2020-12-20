@@ -64,12 +64,17 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek 
 * Cache URIs with query string variables: Disable
 * Cache 404 (not found) pages: Disable
 * Don't cache pages for logged in users: Enable
-* Don't cache pages for following user roles: Enable [Administrator, Editor, Author, Contributor, Subscriber]
+* Don't cache pages for following user roles: Enable
+  * Administrator 
+  * Editor
+  * Author
+  * Contributor
+  * Subscriber
 
 * Automatically prime the page cache: Enable
-* Update interval: 100 seconds
-* Pages per interval: 10
-* Sitemap URL:
+  * Update interval: 100 seconds
+  * Pages per interval: 10
+  * Sitemap URL:
 * Preload the post cache upon publish events: Enable
 
 <img alt="W3 Total Cache Page Cache" title="W3 Total Cache Page Cache" src="/img/W3-Total-Cache-Page-Cache.png">
