@@ -39,7 +39,7 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek 
 <h3> General Settings </h3>
 
 * Page Cache: Enable
-* * Page Cache Method: Disk: Enhanced
+  * Page Cache Method: Disk: Enhanced
 * Minify: Disable
 * Minify Mode: Auto
 * Opcode Cache: Not Available
