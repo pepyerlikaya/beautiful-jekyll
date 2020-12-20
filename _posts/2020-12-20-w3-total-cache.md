@@ -1,7 +1,7 @@
 ---
 layout: post
 title: W3 Total Cache Kullanım Rehberi
-date: '2020-12-14'
+date: '2020-12-20'
 author: Hakan Yerlikaya
 permalink: /w3-total-cache/
 subtitle: Wordpress ile oluşturduğunuz web sayfanızı W3 Total Cache ve Cloudflare ile sitenizi optimize edeceğiz.
