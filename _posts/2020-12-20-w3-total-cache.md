@@ -53,6 +53,7 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek 
   * Disable Emoji: Enable
   * Disable wp-embed script: Enable
   * Disable jquery-migrate on the front-end: Enable
+* Fragment Cache Method: Disk
 
 <img alt="W3 Total Cache General Settings" title="W3 Total Cache General Settings" src="/img/W3-Total-Cache-General-Settings.png">
 
@@ -70,6 +71,7 @@ W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek 
   * Author
   * Contributor
   * Subscriber
+Bu sekmede sitemap URL bölümüne web sayfanızın site haritası yolunu ekleyiniz.
 
 * Automatically prime the page cache: Enable
   * Update interval: 100 seconds
