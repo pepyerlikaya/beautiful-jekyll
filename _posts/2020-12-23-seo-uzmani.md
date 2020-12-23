@@ -29,7 +29,6 @@ Google arama nasıl şu 3 ana etkenden oluşur.
 
 <h4> Tarama </h4>
 
-
 Google milyarlarca web sayfaları tarama yapabilse bile arama sonuçlarına ekleyemeği sayfalarda olabilir. Bu yüzden web site sahipleri tarafından sunulan site haritası sayesinde sayfaların listesi ve diğer sayfalar keşfedilir.
 
 <a href="https://developers.google.com/search/docs/advanced/crawling/googlebot?hl=tr" target="_blank" rel="noreferrer noopener">Googlebot</a> örümceklerin sitenizdeki sayfalara nasıl erişebildiğini ve sayfalarınızın doğru görüntülendiğinden emin olun. Bu işlemi daha iyi yönetebilmeniz için <a href="https://hakanyerlikaya.com/seo-araclari/" target="_blank" rel="noreferrer noopener">SEO araçları</a> listesinde paylaşılan <a href="https://search.google.com/test/mobile-friendly" target="_blank" rel="noreferrer noopener">Google Mobile Friendly</a> aracını kullanarak sayfa adresinizi hızlı bir şekilde kontrol edebilirsiniz.
@@ -53,3 +52,12 @@ Googlebot örümcekleri site sahipleri tarafından sunulan site haritası sayesi
 
 * Kısa başlıklar kullanın.
 * İçerikleri genişletin ve resim yada videolara alt metin ekleyin.
+
+<h4> Sunum (ve sıralama) </h4>
+
+Kullanıcılar her arama sorgusu gerçekeleştirdiğinde Google arama sonuçlarındaki en alakalı cevap (sayfa) bulabilmek için bir çok sinyalleri kullanır. Bu sorgu için, konum, dil ve cihaz gibi şeyleri bulundurarak en iyi kullanıcı deneyimini ve en iyi yanıtı sağlayacak diğer hususları dikkate alır.
+
+* Sayfanızın hızlı yüklendiğinden emin olun.
+* Yararlı içerikler ve içeriklerin güncel olduğundan emin olun.
+
+
