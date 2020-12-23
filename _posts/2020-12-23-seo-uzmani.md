@@ -18,3 +18,11 @@ Bu SEO uzmanı rehberinde arama sonuçlarında başarılar elde edebileceğiz ha
 <h2> SEO Uzmanı </h2>
 
 SEO uzmanı, kullanıcıların faydalanabileceği bir web sitesi oluşturarak kullanıcılara daha iyi bir deneyim sunarak her kullanıcının içerikleri keşfetmesine yardımcı olur. SEO arama motorlarının içerikleri daha iyi sunması ve anlamasına yardımcı olmakla ilgilidir.
+
+<h3> Google Arama Nasıl Çalışır? </h3>
+
+* Tarama
+* Dizine Ekleme
+* Sunum (ve Sıralama)
+
+
