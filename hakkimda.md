@@ -10,7 +10,7 @@ Merhabalar, efendim! Web sayfama hoş geldiniz! Ben, Hakan Yerlikaya
 
 1997 yılının ortalarında ailemizle pılımızı pırtımızı toplayıp Zonguldak ilinin şirin mi şirin ilçesine göç ettik. 
 
-O günden bu zamana kömür kenti Zonguldak'da yaşantımızı sürdürüyoruz. Biraz yaş ilerlemiş olsa bile 2020 yılının Eylül ayının 27'sinde Covid-19 virüsünden dolayı düğünüm çok iyi olmasada bir şekilde bekarlığa veda diyerek evliliğe adımımı attım. (Çok şükür)
+O günden bu zamana kömür kenti Zonguldak'da yaşantımızı sürdürüyoruz. Biraz yaş ilerlemiş olsa bile 2020 yılının Eylül ayının 27'sinde Covid-19 virüsünden dolayı düğünüm çok iyi olmasada bir şekilde bekarlığa veda diyerek evliliğe ilk adımımı attım. (Çok şükür)
 
 Küçük yaşlarda başlayan elektrik ve elektronik eşyalara merakım büyüyünce de devam ettiğinden dolayı lise hayatını Endüstri meslek lisesi elektrik bölümünde okuma kararı aldım.
 
