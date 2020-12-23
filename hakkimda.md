@@ -30,6 +30,6 @@ Uzun yıllar Hollanda ülkesinde çalıştıktan sonra, Uruguay, Paraguay, Arjan
 
 Yaş biraz ilerlemiş olsa bile. 2020 yılının Eylül ayında Covid-19 virüsü yüzünden çok iyi bir şekilde olmasa da bekarlığa veda diyerek evliliğe ilk adımımı attım.
 
-
+İyi mi ettik! Bence iyi ettik. :)
 
 
