@@ -51,3 +51,5 @@ Googlebot örümceklerinin sayfalara doğru erişebildiğinden ve doğru görün
 
 Googlebot örümcekleri site sahipleri tarafından sunulan site haritası sayesinde yeni bir web sayfası keşfeder. Keşfedilmeye başlanılan bir web sayfada bulunan içerikleri, resimleri, videoları sınıflandırmaya çalışır. Daha sonra keşfedilen çalıştığı sayfanın neyle ilgili olduğunu anlamaya çalışır ve bu işleme dizine ekleme işlemi adı verilir. 
 
+* Kısa başlıklar kullanın.
+* İçerikleri genişletin ve resim yada videolara alt metin ekleyin.
