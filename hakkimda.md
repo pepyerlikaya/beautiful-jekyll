@@ -4,8 +4,6 @@ title: Hakkımda
 subtitle: Kısacası hakkımda.
 ---
 
-Merhabalar, efendim!
+Merhabalar, efendim! Web sayfama hoş geldiniz! Ben, Hakan Yerlikaya...
 
-Ben;
-
-Hakan Yerlikaya, 87 model ve doğma büyüme Bolu doğumluyum. 
+87 modelim ve Bolu doğumluyum.
