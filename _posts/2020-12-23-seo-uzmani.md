@@ -27,13 +27,16 @@ Google arama nasıl şu 3 ana etkenden oluşur.
 * Dizine Ekleme
 * Sunum (ve Sıralama)
 
+<h4> Tarama </h4>
+
+
 Google milyarlarca web sayfaları tarama yapabilse bile arama sonuçlarına ekleyemeği sayfalarda olabilir. Bu yüzden web site sahipleri tarafından sunulan site haritası sayesinde sayfaların listesi ve diğer sayfalar keşfedilir.
 
 <a href="https://developers.google.com/search/docs/advanced/crawling/googlebot?hl=tr" target="_blank" rel="noreferrer noopener">Googlebot</a> örümceklerin sitenizdeki sayfalara nasıl erişebildiğini ve sayfalarınızın doğru görüntülendiğinden emin olun. Bu işlemi daha iyi yönetebilmeniz için <a href="https://hakanyerlikaya.com/seo-araclari/" target="_blank" rel="noreferrer noopener">SEO araçları</a> listesinde paylaşılan <a href="https://search.google.com/test/mobile-friendly" target="_blank" rel="noreferrer noopener">Google Mobile Friendly</a> aracını kullanarak sayfa adresinizi hızlı bir şekilde kontrol edebilirsiniz.
 
 <img alt="Google Mobile Friendly" title="Google Mobile Friendly" src="/img/Google-Mobile-Friendly.png">
 
-<h4> Sayfanızı İyileştirmek İçin </h4>
+<h5> Sayfanızı İyileştirmek İçin </h5>
 
 Googlebot örümceklerinin sayfalara doğru erişebildiğinden ve doğru görüntülendiğinden emin olun. Googlebot örümceklerinin sayfaları doğru bir şekilde anlayabilmesi için tüm resimleri ve sayfadaki diğer ögeleri görebilmesi için aşağıdaki araçları kullanmanız gerekir.
 
@@ -44,4 +47,7 @@ Googlebot örümceklerinin sayfalara doğru erişebildiğinden ve doğru görün
 
 <img alt="Google Mobile Friendly" title="Google Mobile Friendly" src="/img/Google-Mobile-Friendly.png">
 
+<h4> Dizine Ekleme </h4>
+
+Googlebot örümcekleri site sahipleri tarafından sunulan site haritası sayesinde yeni bir web sayfası keşfeder. Keşfedilmeye başlanılan bir web sayfada bulunan içerikleri, resimleri, videoları sınıflandırmaya çalışır. Daha sonra keşfedilen çalıştığı sayfanın neyle ilgili olduğunu anlamaya çalışır ve bu işleme dizine ekleme işlemi adı verilir. 
 
