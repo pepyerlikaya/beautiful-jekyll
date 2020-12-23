@@ -14,7 +14,7 @@ O günden bu güne kadar kömür kenti Zonguldak'da yaşantımızı sürdürüyo
 
 Küçük yaşlarda başlayan elektrik ve elektronik eşyalara merakım büyüyünce de devam ettiğinden dolayı lise hayatını Endüstri meslek lisesi elektrik bölümünde okuma kararı aldım.
 
-Tökezlemeden lise hayatını başarılı bir şekilde tamamladıktan sonra ilçede bulunan küçük esnaflarda aileme ve kendi ihtiyaçlarımı giderebilmek için yıllar boyunca çalıştım.
+Tökezlemeden lise hayatını başarılı bir şekilde tamamladıktan sonra ilçede bulunan küçük esnaflarda aileme ve kendi ihtiyaçlarımı karşılayabilmek üniversite hayalini gerçekleştiremeden büyümüşüz.
 
 
 
