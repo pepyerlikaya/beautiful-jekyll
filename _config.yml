@@ -15,8 +15,8 @@ author: Hakan Yerlikaya
 
 navbar-links:
   Blog: "https://hakanyerlikaya.com/"
-  Hakkımda: "hakkimda"
-  İletişim: "iletisim"
+  Hakkımda: "https://hakanyerlikaya.com/hakkimda/"
+  İletişim: "https://hakanyerlikaya.com/iletisim/"
 
 # --- Logo --- #
 
