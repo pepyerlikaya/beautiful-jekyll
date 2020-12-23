@@ -4,8 +4,24 @@ title: Hakkımda
 subtitle: Kısacası hakkımda.
 ---
 
-Merhabalar, efendim! Web sayfama hoş geldiniz! Ben, Hakan Yerlikaya...
+Merhabalar, efendim! Web sayfama hoş geldiniz! Ben, Hakan Yerlikaya
 
 87 modelim ve Bolu doğumluyum.
 
-1997 yılında Zonguldak ilinin şirin mi şirin ilçesine taşındındıktan sonra memleketim Bolu'yu unutup artık Zonguldak kömür kentinin bir evladı oldum gibi bir şey.
+1997 yılının ortalarında ailemizle pılımızı pırtımızı toplayıp Zonguldak ilinin şirin mi şirin ilçesine göç ettik. 
+
+O günden bu zamana kömür kenti Zonguldak'da yaşantımızı sürdürüyoruz. Biraz yaş ilerlemiş olsa bile 2020 yılının Eylül ayının 27'sinde Covid-19 virüsünden dolayı düğünüm çok iyi olmasada bir şekilde bekarlığa veda diyerek evliliğe adımımı attım. (Çok şükür)
+
+Küçük yaşlarda başlayan elektrik ve elektronik eşyalara merakım büyüyünce de devam ettiğinden dolayı lise hayatını Endüstri meslek lisesi elektrik bölümünde okuma kararı aldım.
+
+Tökezlemeden lise hayatını başarılı bir şekilde tamamladıktan sonra ilçede bulunan küçük esnaflarda aileme ve kendi ihtiyaçlarımı giderebilmek için yıllar boyunca çalıştım.
+
+
+
+
+
+
+
+
+
+
