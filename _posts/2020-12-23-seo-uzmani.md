@@ -21,6 +21,8 @@ SEO uzmanı, kullanıcıların faydalanabileceği bir web sitesi oluşturarak ku
 
 <h3> Google Arama Nasıl Çalışır? </h3>
 
+Google arama nasıl şu 3 ana etkenden oluşur.
+
 * Tarama
 * Dizine Ekleme
 * Sunum (ve Sıralama)
