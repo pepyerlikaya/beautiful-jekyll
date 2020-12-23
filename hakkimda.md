@@ -14,7 +14,7 @@ O günden bu güne kadar kömür kenti olan Zonguldak'da yaşantımızı sürdü
 
 Küçük yaşlarda başlayan elektrik ve elektronik eşyalara merakım büyüyünce de devam ettiğinden dolayı lise hayatını Endüstri meslek lisesi elektrik bölümünde okuma kararı aldım.
 
-Tökezlemeden lise hayatını başarılı bir şekilde tamamladıktan sonra ilçede bulunan küçük esnaflarda aileme ve kendi ihtiyaçlarımı karşılayabilmek üniversite hayalini gerçekleştiremeden hayatın cilvesini öğrenmiş olduk.
+Tökezlemeden lise hayatını başarılı bir şekilde tamamladıktan sonra ilçede bulunan küçük esnaflarda ailemin ve kendi ihtiyaçlarımı karşılayabilmek üniversite hayalini de yarımda bırakmamak için saatlerce çalışttık ettik.
 
 Zaman zaten su gibi akıp geçtiğinden dolayı, 15 aylık vatani görevimi tamamlayıp memlekette birazcık kafa dağıttıktan sonra bir arkadaşımın yardımı sayesinde ilk kez Avrupa'ya gideceğimin sevinci içerisinde yaşıyordum.
 
