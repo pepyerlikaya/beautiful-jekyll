@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Baştan Sona... Nasıl SEO Uzmanı Olunur?
-date: '2020-12-14'
+title: Baştan Sona SEO Uzmanı Rehberi
+date: '2020-12-23'
 author: Hakan Yerlikaya
 permalink: /seo-uzmani/
 subtitle: SEO uzmanı olmak istiyor ve nereden nasıl başlayacağınızı bilmiyor musunuz? Bu rehber sizin için hazırlandı.
