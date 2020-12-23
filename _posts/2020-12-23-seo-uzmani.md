@@ -7,7 +7,7 @@ permalink: /seo-uzmani/
 subtitle: SEO uzmanı olmak istiyor ve nereden nasıl başlayacağınızı bilmiyor musunuz? Bu rehber sizin için hazırlandı.
 ---
 
-SEO (Arama Motoru Optimizasyonu) sayesinde web sitenizde küçük iyileştirmeler yaparak sitenizin kullanıcı deneyimi ve organik arama sonuçlarında etkisini görebileceğiniz ufak değişiklikler olur.
+<a href="https://hakanyerlikaya.com/seo/" target="_blank" rel="noreferrer noopener">SEO</a> (Arama Motoru Optimizasyonu) sayesinde web sitenizde küçük iyileştirmeler yaparak sitenizin kullanıcı deneyimi ve organik arama sonuçlarında etkisini görebileceğiniz ufak değişiklikler olur.
 
 SEO hakkında ne kadar bilginiz olursa olsun, her zaman SEO konusunda daha iyi birileri çıkacaktır.
 
