@@ -37,7 +37,7 @@ Google milyarlarca web sayfaları tarama yapabilse bile arama sonuçlarına ekle
 
 <h5> Sayfanızı İyileştirmek İçin </h5>
 
-Googlebot örümceklerinin sayfalara doğru erişebildiğinden ve doğru görüntülendiğinden emin olun. Googlebot örümceklerinin sayfaları doğru bir şekilde anlayabilmesi için tüm resimleri ve sayfadaki diğer ögeleri görebilmesi için aşağıdaki araçları kullanmanız gerekir.
+Googlebot örümceklerinin sayfaları doğru bir şekilde anlayabilmesi için tüm resimleri ve sayfadaki diğer ögeleri görebilmesi için aşağıdaki araçları kullanmanız gerekir.
 
 * <a href="https://hakanyerlikaya.com/google-search-console/" target="_blank" rel="noreferrer noopener">Google Search Console</a>
 * <a href="https://search.google.com/test/mobile-friendly" target="_blank" rel="noreferrer noopener">Google Mobile Friendly</a>
