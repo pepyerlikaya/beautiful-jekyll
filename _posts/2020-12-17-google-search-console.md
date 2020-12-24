@@ -14,6 +14,8 @@ Web sitenizin performansını iyileştirmesine yardımcı olacak Google Search C
 
 Bunlar ise XML site haritası oluşturmayı, ardından site doğrulama adımlarını ve gereksiz sayfaları arama sonuçlarından kaldırma işlemini ve en önemlisi sitenizin performansını iyileştirecek taktikler vereceğim.
 
+<img alt="Google Search Console" title="Google Search Console" src="/img/Google-Search-Console.png">
+
 <h2> Google Search Console </h2>
 
 Web sayfanızı birbirinden farklı iki yöntemden herhangi birisini kullanarak yapabilirsiniz.
