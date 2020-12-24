@@ -76,7 +76,10 @@ Google Search Console aracına geri dönerek doğrula düğmesine tıklayın. DN
 
 <img alt="Google Search Console Sahiplik Doğrulanamadı" title="Google Search Console Sahiplik Doğrulanamadı" src="/img/Google-Search-Console-Sahiplik-Dogrulanamadi.png">
 
-Birkaç saat sonra tekrardan doğrula yapacağınız zaman 
+Birkaç kez deneme sonrası doğrula dediğiniz zaman karşınıza “Sahiplik otomatik olarak doğrulandı” uyarısı alacaksınız.
+
+<img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Sahiplik-Dogrulandi.png">
+
 
 <h3> URL Ön Eki </h3>
 
