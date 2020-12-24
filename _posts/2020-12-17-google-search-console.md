@@ -145,7 +145,7 @@ Alan adı özelliğinde kullandığımız bu özelliği alan adı sağlayıcıs�
 
 <h4> Site Haritaları </h4>
 
-Web site sahipleri tarafından gönderilen XML site haritaları sayesinde <a href="https://developers.google.com/search/docs/advanced/crawling/googlebot?hl=tr" target="_blank" rel="noreferrer noopener">Googlebot</a> örümcekleri sayfalar, kategoriler ve etiketleri arama sonuçlarına dizine ekleme işlemi yaparlar.
+Web site sahipleri tarafından gönderilen site haritası sayesinde <a href="https://developers.google.com/search/docs/advanced/crawling/googlebot?hl=tr" target="_blank" rel="noreferrer noopener">Googlebot</a> örümcekleri sayfalar, kategoriler ve etiketleri arama sonuçlarına dizine ekleme işlemi yaparlar.
 
 Site haritaları bölümünde web sayfanıza ait bir XML site haritası olmalıdır.
 
