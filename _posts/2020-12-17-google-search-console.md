@@ -93,7 +93,6 @@ Aşağıdaki örneğe göz atarak sitenizin URL varyasyonlarını ekleyin.
 * https://example.com/
 * https://www.example.com/
 
-
 URL ön eki kutucuğuna web sayfanızın URL adresini yapıştırın ve devam düğmesine tıklayın.
 
 <img alt="Google Search Console URL Ön Eki" title="Google Search Console URL Ön Eki" src="/img/Google-Search-Console-URL-On-Eki.png">
@@ -107,7 +106,6 @@ Sahipliği doğrulayın ekranında birbirinden farklı 5 ayrı özellik ile site
 3. Google Analytics
 4. Google Etiket Yöneticisi
 5. Alan Adı Sağlayıcı
-
 
 <h4> HTML Dosyası </h4>
 
@@ -155,5 +153,9 @@ Wordpress veya <a href="https://abcopencart.com/" target="_blank" rel="noreferre
 * Rank Math SEO Plugin
 * All in ONE SEO Pack
 
+Yeni bir site haritası ekleyin kutucuğuna sitenizin site haritaı URL adresi ekleyerek gönder düğmesine tıklayın.
+
 <img alt="Google Search Console Site Haritaları" title="Google Search Console Site Haritaları" src="/img/Google-Search-Console-Site-Haritalari.png">
+
+Github ile halihazırda ücretsiz hosting kullanıyorsanız eğer -config.yml dosyasının içerisine -jekyll-sitemap komutunu yazarak “Yeni bir site haritası ekleyin” kutucuğuna /feed.xml yazmanız yeterlidir.
 
