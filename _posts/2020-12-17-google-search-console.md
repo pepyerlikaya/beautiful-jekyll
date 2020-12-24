@@ -80,7 +80,6 @@ Birkaç kez deneme sonrası doğrula dediğiniz zaman karşınıza “Sahiplik o
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Sahiplik-Dogrulandi.png">
 
-
 <h3> URL Ön Eki </h3>
 
 Web sayfanızı bir başka özellik olan URL ön eki özelliğini kullanarakta yapabilirsiniz.
@@ -138,6 +137,8 @@ Google Search Console aracına Google Analytics
 
 <h4> Alan Adı Sağlayıcı </h4>
 
+Alan adı özelliğinde kullandığımız bu özelliği alan adı sağlayıcısı bölümüyle aynıdır.
+
 <img alt="Google Search Console Alan Adı Sağlayıcı" title="Google Search Console Alan Adı Sağlayıcı" src="/img/Google-Search-Console-Alan-Adi-Saglayici.png">
 
-
+<img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Sahiplik-Dogrulandi.png">
