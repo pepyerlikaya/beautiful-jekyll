@@ -142,3 +142,18 @@ Alan adı özelliğinde kullandığımız bu özelliği alan adı sağlayıcıs�
 <img alt="Google Search Console Alan Adı Sağlayıcı" title="Google Search Console Alan Adı Sağlayıcı" src="/img/Google-Search-Console-Alan-Adi-Saglayici.png">
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Sahiplik-Dogrulandi.png">
+
+<h4> Site Haritaları </h4>
+
+Web site sahipleri tarafından gönderilen XML site haritaları sayesinde <a href="https://developers.google.com/search/docs/advanced/crawling/googlebot?hl=tr" target="_blank" rel="noreferrer noopener">Googlebot</a> örümcekleri sayfalar, kategoriler ve etiketleri arama sonuçlarına dizine ekleme işlemi yaparlar.
+
+Site haritaları bölümünde web sayfanıza ait bir XML site haritası olmalıdır.
+
+Wordpress veya <a href="https://abcopencart.com/" target="_blank" rel="noreferrer noopener">Opencart</a> scriptlerini kullanıyorsanız eğer birkaç SEO eklentisi sayesinde site haritasına sahip olabilirsiniz.
+
+* Yoast SEO
+* Rank Math SEO Plugin
+* All in ONE SEO Pack
+
+<img alt="Google Search Console Site Haritaları" title="Google Search Console Site Haritaları" src="/img/Google-Search-Console-Site-Haritalari.png">
+
