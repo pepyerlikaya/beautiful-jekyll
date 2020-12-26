@@ -4,7 +4,7 @@ title: W3 Total Cache Kullanım Rehberi
 date: '2020-12-20'
 author: Hakan Yerlikaya
 permalink: /w3-total-cache/
-subtitle: Wordpress ile oluşturduğunuz web sayfanızı W3 Total Cache ve Cloudflare ile sitenizi optimize edeceğiz.
+subtitle: W3 Total Cache eklentisi ile beraber ücretsiz olarak dağıtılan Cloudflare CDN  özelliğini kullanacağız.
 ---
 
 W3 Total Cache eklentisi sayesinde Wordpress ile oluşturmuş olduğunuz web sayfanın hızını iyileştirme yapacağız.
