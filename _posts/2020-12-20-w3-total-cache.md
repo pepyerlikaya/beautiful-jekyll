@@ -7,11 +7,11 @@ permalink: /w3-total-cache/
 subtitle: Wordpress ile oluşturduğunuz web sayfanızı W3 Total Cache ve Cloudflare ile sitenizi optimize edeceğiz.
 ---
 
-Wordpress için W3 Total Cache eklentisi ile beraber ücretsiz olarak dağıtılan Cloudflare CND ağını etkinleştirerek web sayfaların yavaş açılma probleminin birazcıkta olsa önüne geçeceğiz.
+W3 Total Cache eklentisi sayesinde Wordpress ile oluşturmuş olduğunuz web sayfanın hızını iyileştirme yapacağız.
 
-Site hızı Google için bir sıralama sinyalidir.
+Sayfa hızı Google için bir sıralama sinyalidir.
 
-Aşağıda paylaştığım mobil ve masaüstü cihazlar için hız testi ölçmeye yarayan araçları kullanarak çıkan sonuçları bir köşeye not almayı unutmayınız!
+Paylaşmış olduğum <a href="https://hakanyerlikaya.com/seo-araclari/" target="_blank" rel="noreferrer noopener">SEO araçları</a> web sitenizin mobil ve masaüstü cihazları için sayfa hızlarını ölçerek yapmanız gereken bilgileri raporlar.
 
 * <a href="https://web.dev/measure/" target="_blank" rel="noreferrer noopener">Measure Web.dev</a>
 * <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noreferrer noopener">Google PageSpeed Insights</a>
@@ -20,6 +20,10 @@ Aşağıda paylaştığım mobil ve masaüstü cihazlar için hız testi ölçme
 <img alt="Measure Web.dev" title="Measure Web.dev" src="/img/Measure-Webdev.png">
 <img alt="Google PageSpeed Insights" title="Google PageSpeed Insights" src="/img/Google-PageSpeed-Insights.png">
 <img alt="Test My Site" title="Test My Site" src="/img/Test-My-Site.png">
+
+Çıkan hız sonuçlarını bir köşeye not almayı unutmayınız.
+
+Biraz sonra W3 Total Cache eklentisi ile beraber Cloudflare ağı özelliğini kullanarak birkaç takım iyileştirmeler yapacağız.
 
 <h2> W3 Total Cache </h2>
 
