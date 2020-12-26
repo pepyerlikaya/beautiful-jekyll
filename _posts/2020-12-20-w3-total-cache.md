@@ -11,7 +11,7 @@ W3 Total Cache eklentisi sayesinde Wordpress ile oluşturmuş olduğunuz web say
 
 Sayfa hızı Google için bir sıralama sinyalidir.
 
-Paylaşmış olduğum <a href="https://hakanyerlikaya.com/seo-araclari/" target="_blank" rel="noreferrer noopener">SEO araçları</a> web sitenizin mobil ve masaüstü cihazları için sayfa hızlarını ölçerek yapmanız gereken bilgileri raporlar.
+Paylaşmış olduğum <a href="https://hakanyerlikaya.com/seo-araclari/" target="_blank" rel="noreferrer noopener">SEO araçları</a> web sitenizin mobil ve masaüstü cihazları için sayfa hızlarını ölçerek sitenizde düzeltmeniz gerekenleri raporlamaya yarar.
 
 * <a href="https://web.dev/measure/" target="_blank" rel="noreferrer noopener">Measure Web.dev</a>
 * <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noreferrer noopener">Google PageSpeed Insights</a>
