@@ -27,8 +27,9 @@ Biraz sonra W3 Total Cache eklentisi ile beraber Cloudflare ağı özelliğini k
 
 <h2> W3 Total Cache </h2>
 
+W3 Total Cache web site performansını artırarak <a href="https://hakanyerlikaya.com/seo/" target="_blank" rel="noreferrer noopener">SEO</a> ve kullanıcı deneyimini iyileştirmeye yardımcı bir Wordpress eklentisidir.
 
-W3 Total Cache eklentisinin kurulumu için aşağıdaki adımları takip ederek kurulumunu tamamlayınız.
+W3TC eklentisinin kurulumu için aşağıdaki adımları takip ediniz.
 
 * Eklentiler
 * Yeni Ekle
