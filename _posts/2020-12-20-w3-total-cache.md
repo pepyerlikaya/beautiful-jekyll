@@ -43,6 +43,8 @@ W3TC eklentisinin kurulumu için aşağıdaki adımları takip ediniz.
 
 <h3> General Settings </h3>
 
+General settings bölümünde yapacağımız birkaç değişiklik sayesinde sayfa hızında gözle görülür değişiklikler olacaktır.
+
 * Page Cache: Enable
   * Page Cache Method: Disk: Enhanced
 * Minify: Disable
