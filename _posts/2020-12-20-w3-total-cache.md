@@ -66,6 +66,8 @@ General settings bölümünde yapacağımız birkaç değişiklik sayesinde sayf
 
 <h3> Page Cache </h3>
 
+Page cache bölümünde ise sitenizde bulunan yetkili kullanıcılar ve haber bültenine abone olmuş kullanıcılara aynı hız deneyimini sunuyor.
+
 * Cache front page: Enable
 * Cache feeds: site, categories, tags, comments: Enable
 * Cache SSL (HTTPS) requests: Enable
@@ -78,7 +80,8 @@ General settings bölümünde yapacağımız birkaç değişiklik sayesinde sayf
   * Author
   * Contributor
   * Subscriber
-Bu sekmede sitemap URL bölümüne web sayfanızın site haritası yolunu ekleyiniz.
+
+Bu sekmede sitemap URL bölümüne web sayfanızın site haritası yolunu eklemeniz gerekecektir.
 
 * Automatically prime the page cache: Enable
   * Update interval: 100 seconds
@@ -89,6 +92,8 @@ Bu sekmede sitemap URL bölümüne web sayfanızın site haritası yolunu ekleyi
 <img alt="W3 Total Cache Page Cache" title="W3 Total Cache Page Cache" src="/img/W3-Total-Cache-Page-Cache.png">
 
 <h3> Browser Cache </h3>
+
+ Browser cache bölümünü ise aşağıdaki şekilde düzenleyin. 
 
 * Set Last-Modified header: Enable
 * Set expires header: Enable
