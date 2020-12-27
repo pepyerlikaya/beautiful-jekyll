@@ -117,11 +117,15 @@ cPanel dosya yöneticisi bölümüne erişerek sitenizin dosyaları bulunduğu b
 
 <img alt="Google Search Console HTML Dosyası" title="Google Search Console HTML Dosyası" src="/img/Google-Search-Console-HTML-Dosyasi.png">
 
+<img alt="Google Search Console Sahiplik otomatik olarak doğrulandı" title="Google Search Console Sahiplik otomatik olarak doğrulandı" src="/img/GGoogle-Search-Console-Sahiplik-Otomatik-Dogrulandi.png">
+
 <h4> HTML Etiketi </h4>
 
 Benzersiz olarak verilen HTML etiketi veya meta etiketi kopyalayın.
 
 <img alt="Google Search Console HTML Etiketi" title="Google Search Console HTML Etiketi" src="/img/Google-Search-Console-HTML-Etiketi.png">
+
+<img alt="Google Search Console Sahiplik otomatik olarak doğrulandı" title="Google Search Console Sahiplik otomatik olarak doğrulandı" src="/img/GGoogle-Search-Console-Sahiplik-Otomatik-Dogrulandi.png">
 
 <h4> Google Analytics </h4>
 
@@ -131,9 +135,13 @@ Google Search Console aracına Google Analytics
 
 <img alt="Google Search Console Google Analytics" title="Google Search Console Google Analytics" src="/img/Google-Search-Console-Google-Analytics.png">
 
+<img alt="Google Search Console Sahiplik otomatik olarak doğrulandı" title="Google Search Console Sahiplik otomatik olarak doğrulandı" src="/img/GGoogle-Search-Console-Sahiplik-Otomatik-Dogrulandi.png">
+
 <h4> Google Etiket Yöneticisi </h4>
 
 <img alt="Google Search Console Google Etiket Yöneticisi" title="Google Search Console Google Etiket Yöneticisi" src="/img/Google-Search-Console-Google-Etiket-Yoneticisi.png">
+
+<img alt="Google Search Console Sahiplik otomatik olarak doğrulandı" title="Google Search Console Sahiplik otomatik olarak doğrulandı" src="/img/GGoogle-Search-Console-Sahiplik-Otomatik-Dogrulandi.png">
 
 <h4> Alan Adı Sağlayıcı </h4>
 
@@ -142,6 +150,8 @@ Alan adı özelliğinde kullandığımız bu özelliği alan adı sağlayıcıs�
 <img alt="Google Search Console Alan Adı Sağlayıcı" title="Google Search Console Alan Adı Sağlayıcı" src="/img/Google-Search-Console-Alan-Adi-Saglayici.png">
 
 <img alt="Google Search Console Alan Adı" title="Google Search Console Alan Adı" src="/img/Google-Search-Console-Sahiplik-Dogrulandi.png">
+
+<img alt="Google Search Console Sahiplik otomatik olarak doğrulandı" title="Google Search Console Sahiplik otomatik olarak doğrulandı" src="/img/GGoogle-Search-Console-Sahiplik-Otomatik-Dogrulandi.png">
 
 <h4> Site Haritaları </h4>
 
